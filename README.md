@@ -1,4 +1,4 @@
-# SemangatKoko
+# Hilangin.bg
 Proyek Senior Rabu 1
 
 Ketua Kelompok: Handoko Wisnu Murti (19/444054/TK/49250)
