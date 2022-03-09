@@ -1,7 +1,7 @@
 # Hilangin.bg
 Hilangin.bg adalah aplikasi web yang dapat menghilangkan background foto maupun video. selain itu akan disediakan fitur untuk menggantikan background dengan template yang telah disediakan dan bisa menambahkan background yang diinginkan. 
 
-Ketua Kelompok: Handoko Wisnu Murti (19/444054/TK/49250)
+Ketua Kelompok: Handoko Wisnu Murti - 19/444054/TK/49250
 
 Anggota 1: Brandon Cynwell Pasaribu (19/444043/TK/49239)
 
