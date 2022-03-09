@@ -1,5 +1,5 @@
 # Hilangin.bg
-Proyek Senior Rabu 1
+Hilangin.bg adalah aplikasi web yang dapat menghilangkan background foto maupun video. selain itu akan disediakan fitur untuk menggantikan background dengan template yang telah disediakan dan bisa menambahkan background yang diinginkan. 
 
 Ketua Kelompok: Handoko Wisnu Murti (19/444054/TK/49250)
 
